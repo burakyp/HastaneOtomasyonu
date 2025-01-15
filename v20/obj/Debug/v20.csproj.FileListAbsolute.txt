@@ -1,0 +1,265 @@
+C:\Users\hacis\Desktop\v20\v20\bin\Debug\v20.exe.config
+C:\Users\hacis\Desktop\v20\v20\bin\Debug\v20.exe
+C:\Users\hacis\Desktop\v20\v20\bin\Debug\v20.pdb
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\v20.csproj.AssemblyReference.cache
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\AnaEkran.g.cs
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\MainWindow.g.cs
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\App.g.cs
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\v20_MarkupCompile.cache
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\v20_MarkupCompile.lref
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\AnaEkran.baml
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\MainWindow.baml
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\v20.g.resources
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\v20.Properties.Resources.resources
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\v20.csproj.GenerateResource.cache
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\v20.csproj.CoreCompileInputs.cache
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\v20.exe
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\v20.pdb
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\bin\Debug\v20.exe.config
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\bin\Debug\v20.exe
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\bin\Debug\v20.pdb
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\AnaEkran.g.cs
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\MainWindow.g.cs
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\App.g.cs
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\v20_MarkupCompile.cache
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\v20_MarkupCompile.lref
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\AnaEkran.baml
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\MainWindow.baml
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\v20.g.resources
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\v20.Properties.Resources.resources
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\v20.csproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\v20.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\v20.exe
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\v20.pdb
+C:\Users\burak\OneDrive\Masaüstü\v31\v20\v20\bin\Debug\v20.exe.config
+C:\Users\burak\OneDrive\Masaüstü\v31\v20\v20\bin\Debug\v20.exe
+C:\Users\burak\OneDrive\Masaüstü\v31\v20\v20\bin\Debug\v20.pdb
+C:\Users\burak\OneDrive\Masaüstü\v31\v20\v20\obj\Debug\v20.csprojAssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\v31\v20\v20\obj\Debug\AnaEkran.g.cs
+C:\Users\burak\OneDrive\Masaüstü\v31\v20\v20\obj\Debug\MainWindow.g.cs
+C:\Users\burak\OneDrive\Masaüstü\v31\v20\v20\obj\Debug\App.g.cs
+C:\Users\burak\OneDrive\Masaüstü\v31\v20\v20\obj\Debug\v20_MarkupCompile.cache
+C:\Users\burak\OneDrive\Masaüstü\v31\v20\v20\obj\Debug\v20_MarkupCompile.lref
+C:\Users\burak\OneDrive\Masaüstü\v31\v20\v20\obj\Debug\AnaEkran.baml
+C:\Users\burak\OneDrive\Masaüstü\v31\v20\v20\obj\Debug\MainWindow.baml
+C:\Users\burak\OneDrive\Masaüstü\v31\v20\v20\obj\Debug\v20.g.resources
+C:\Users\burak\OneDrive\Masaüstü\v31\v20\v20\obj\Debug\v20.Properties.Resources.resources
+C:\Users\burak\OneDrive\Masaüstü\v31\v20\v20\obj\Debug\v20.csproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Masaüstü\v31\v20\v20\obj\Debug\v20.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\v31\v20\v20\obj\Debug\v20.exe
+C:\Users\burak\OneDrive\Masaüstü\v31\v20\v20\obj\Debug\v20.pdb
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\bin\Debug\v20.exe.config
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\bin\Debug\v20.exe
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\bin\Debug\v20.pdb
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\v20.csprojAssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\AnaEkran.g.cs
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\Kayıt.g.cs
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\MainWindow.g.cs
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\Pages\PgAnaSayfa.g.cs
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\Pages\PgMesaj.g.cs
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\App.g.cs
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\v20_MarkupCompile.cache
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\v20_MarkupCompile.lref
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\AnaEkran.baml
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\Kayıt.baml
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\MainWindow.baml
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\Pages\PgAnaSayfa.baml
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\Pages\PgMesaj.baml
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\v20.g.resources
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\v20.Properties.Resources.resources
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\v20.csproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\v20.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\v20.exe
+C:\Users\burak\OneDrive\Masaüstü\ \v31\v20\v20\obj\Debug\v20.pdb
+C:\Users\hacis\Desktop\123\v20\v20\bin\Debug\v20.exe.config
+C:\Users\hacis\Desktop\123\v20\v20\bin\Debug\v20.exe
+C:\Users\hacis\Desktop\123\v20\v20\bin\Debug\v20.pdb
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\v20.csproj.AssemblyReference.cache
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\v20.csproj.SuggestedBindingRedirects.cache
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\AnaEkran.g.cs
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\Kayıt.g.cs
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\MainWindow.g.cs
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\Pages\PgAnaSayfa.g.cs
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\Pages\PgMesaj.g.cs
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\App.g.cs
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\v20_MarkupCompile.cache
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\v20_MarkupCompile.lref
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\AnaEkran.baml
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\Kayıt.baml
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\MainWindow.baml
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\Pages\PgAnaSayfa.baml
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\Pages\PgMesaj.baml
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\v20.g.resources
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\v20.Properties.Resources.resources
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\v20.csproj.GenerateResource.cache
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\v20.csproj.CoreCompileInputs.cache
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\v20.exe
+C:\Users\hacis\Desktop\123\v20\v20\obj\Debug\v20.pdb
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\bin\Debug\v20.exe.config
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\bin\Debug\v20.exe
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\bin\Debug\v20.pdb
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\v20.csproj.AssemblyReference.cache
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\v20.csproj.SuggestedBindingRedirects.cache
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\AnaEkran.g.cs
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\Kayıt.g.cs
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\MainWindow.g.cs
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\Pages\PgAnaSayfa.g.cs
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\Pages\PgMesaj.g.cs
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\App.g.cs
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\v20_MarkupCompile.cache
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\v20_MarkupCompile.lref
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\AnaEkran.baml
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\Kayıt.baml
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\MainWindow.baml
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\Pages\PgAnaSayfa.baml
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\Pages\PgMesaj.baml
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\v20.g.resources
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\v20.Properties.Resources.resources
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\v20.csproj.GenerateResource.cache
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\v20.csproj.CoreCompileInputs.cache
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\v20.exe
+C:\Users\hacis\Desktop\123 - Kopya\v20\v20\obj\Debug\v20.pdb
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\bin\Debug\v20.exe.config
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\bin\Debug\v20.exe
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\bin\Debug\v20.pdb
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\v20.csproj.AssemblyReference.cache
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\v20.csproj.SuggestedBindingRedirects.cache
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\AnaEkran.g.cs
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\Kayıt.g.cs
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\MainWindow.g.cs
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\Pages\PgAnaSayfa.g.cs
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\Pages\PgMesaj.g.cs
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\App.g.cs
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\v20_MarkupCompile.cache
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\v20_MarkupCompile.lref
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\AnaEkran.baml
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\Kayıt.baml
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\MainWindow.baml
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\Pages\PgAnaSayfa.baml
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\Pages\PgMesaj.baml
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\v20.g.resources
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\v20.Properties.Resources.resources
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\v20.csproj.GenerateResource.cache
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\v20.csproj.CoreCompileInputs.cache
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\v20.exe
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\v20.pdb
+C:\Users\hacis\Desktop\v1.21.4\v20\v20\obj\Debug\v20_Content.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\bin\Debug\v20.exe.config
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\bin\Debug\v20.exe
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\bin\Debug\v20.pdb
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\v20.csproj.AssemblyReference.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\v20.csproj.SuggestedBindingRedirects.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\AnaEkran.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\Kayıt.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\MainWindow.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\Pages\PgAnaSayfa.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\Pages\PgMesaj.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\App.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\v20_Content.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\v20_MarkupCompile.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\v20_MarkupCompile.lref
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\AnaEkran.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\Kayıt.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\MainWindow.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\Pages\PgAnaSayfa.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\Pages\PgMesaj.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\v20.g.resources
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\v20.Properties.Resources.resources
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\v20.csproj.GenerateResource.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\v20.csproj.CoreCompileInputs.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\v20.exe
+C:\Users\hacis\Desktop\v1.21.4 - Kopya\v20\v20\obj\Debug\v20.pdb
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\bin\Debug\v20.exe.config
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\bin\Debug\v20.exe
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\bin\Debug\v20.pdb
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\v20.csproj.AssemblyReference.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\v20.csproj.SuggestedBindingRedirects.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\AnaEkran.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\Kayıt.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\MainWindow.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\Pages\PgAnaSayfa.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\Pages\PgMesaj.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\App.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\v20_Content.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\v20_MarkupCompile.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\v20_MarkupCompile.lref
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\AnaEkran.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\Kayıt.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\MainWindow.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\Pages\PgAnaSayfa.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\Pages\PgMesaj.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\v20.g.resources
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\v20.Properties.Resources.resources
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\v20.csproj.GenerateResource.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\v20.csproj.CoreCompileInputs.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\v20.exe
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya\v20\v20\obj\Debug\v20.pdb
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\bin\Debug\v20.exe.config
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\bin\Debug\v20.exe
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\bin\Debug\v20.pdb
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20.csproj.AssemblyReference.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20.csproj.SuggestedBindingRedirects.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\AnaEkran.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\Kayıt.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\MainWindow.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\Pages\PgAnaSayfa.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\Pages\PgMesaj.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\App.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20_Content.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20_MarkupCompile.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20_MarkupCompile.lref
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\AnaEkran.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\Kayıt.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\MainWindow.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\Pages\PgAnaSayfa.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\Pages\PgMesaj.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20.g.resources
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20.Properties.Resources.resources
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20.csproj.GenerateResource.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20.csproj.CoreCompileInputs.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20.exe
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20.pdb
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\bin\Debug\v20.exe.config
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\bin\Debug\v20.exe
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\bin\Debug\v20.pdb
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20.csproj.AssemblyReference.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20.csproj.SuggestedBindingRedirects.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\AnaEkran.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\Kayıt.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\MainWindow.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\Pages\PgAnaSayfa.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\Pages\PgMesaj.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\App.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20_Content.g.cs
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20_MarkupCompile.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20_MarkupCompile.lref
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\AnaEkran.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\Kayıt.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\MainWindow.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\Pages\PgAnaSayfa.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\Pages\PgMesaj.baml
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20.g.resources
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20.Properties.Resources.resources
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20.csproj.GenerateResource.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20.csproj.CoreCompileInputs.cache
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20.exe
+C:\Users\hacis\Desktop\v1.21.4 - Kopya - Kopya - Kopya - Kopya\v20\v20\obj\Debug\v20.pdb
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\v20.csproj.SuggestedBindingRedirects.cache
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\Kayıt.g.cs
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\Pages\PgMesaj.g.cs
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\v20_Content.g.cs
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\Kayıt.baml
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\Pages\PgMesaj.baml
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\Pages\PgGönderiler.g.cs
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\Pages\PgGönderiler.baml
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\Pages\PgMusic.g.cs
+C:\Users\hacis\Desktop\v20\v20\obj\Debug\Pages\PgMusic.baml
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\v20.csprojAssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\Kayıt.g.cs
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\Pages\PgGönderiler.g.cs
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\Kayıt.baml
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\Pages\PgGönderiler.baml
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\DoktorGirisi.g.cs
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\DoktorGirisi.baml
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\DoktorAnaEkran.g.cs
+C:\Users\burak\OneDrive\Masaüstü\v20\v20\obj\Debug\DoktorAnaEkran.baml

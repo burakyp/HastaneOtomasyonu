@@ -1,0 +1,46 @@
+﻿<Window x:Class="v20.Kayıt"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:v20"
+        mc:Ignorable="d"
+        Title="Kayıt" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Image/hosarkaplan.png"/>
+        </Grid.Background>
+        <StackPanel HorizontalAlignment="Right" VerticalAlignment="Center"  Background="#BFB5B5B5" Margin="0,0,140,0"  >
+
+            <TextBlock FontSize="30" HorizontalAlignment="Center"  Margin="10" FontStyle="Italic">
+                <TextBlock.Background>
+                    <ImageBrush/>
+                </TextBlock.Background>Kayıt</TextBlock>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Foreground="Black" FontSize="20" Width="120" Height="30">Profil Resmi:</TextBlock>
+                <Button x:Name="BtnPp"  Background="White" Width="130" Height="30"  FontSize="20" Click="BtnPp_Click">+</Button>
+                <Image x:Name="ImgResim" Visibility="Collapsed"/>
+
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock  Foreground="Black" FontSize="20" Width="120" Height="30">Kullanıcı Adı:</TextBlock>
+                <TextBox x:Name="TbKullaniciAdi"  Padding="3" FontSize="15" Width="130" Height="30" ></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Foreground="Black" FontSize="20" Width="120" Height="30">Şifre:</TextBlock>
+                <TextBox x:Name="TbSifre"  Padding="3" FontSize="15" Width="130" Height="30" ></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Foreground="Black" FontSize="20" Width="120" Height="30">İsim:</TextBlock>
+                <TextBox x:Name="TbAd"  Padding="3" FontSize="15" Width="130" Height="30"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Foreground="Black" FontSize="20" Width="120" Height="30">Soyad:</TextBlock>
+                <TextBox x:Name="TbSoyad"  Padding="3" FontSize="15" Width="130" Height="30"></TextBox>
+            </StackPanel>
+
+            <Button x:Name="BtnKayıt"  Background="White" Width="250" Height="30" Margin="10,0,10,10" FontSize="20" FontStyle="Italic" Click="BtnKayıt_Click">Kayıt Ol</Button>
+
+        </StackPanel>
+    </Grid>
+</Window>
